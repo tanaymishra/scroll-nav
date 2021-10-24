@@ -1,0 +1,37 @@
+@media only screen and (max-width: 950px) {
+    .container .card .details span p {
+        font-size: calc(.9vw + 0.4rem) !important
+    }
+    .nf{
+        height: 50vw !important;
+        h1{
+            font-size: calc(1.5vw + 1rem)!important;
+        }
+        button{
+            width: 30% !important;
+            height: 2rem !important;
+            font-size: .7rem !important;
+            margin-top: 10px !important;
+        }
+    }
+    .card {
+        flex-direction: column;
+        height: 70vw !important;
+        .details {
+            span{
+                overflow: visible;
+            }
+            width: 100% !important;
+            height: 45%;
+            button {
+                width: 23% !important;
+                height: 40% !important;
+                font-size: 12px !important;
+            }
+        }
+        .img {
+            width: 100% !important;
+            height: 60%;
+        }
+    }
+}
