@@ -7,7 +7,7 @@ In this project I Implemented A Scroll Navigation Using  ES6 version of Javascri
 Javascript should be enable in your browser
 
 ```bash
-  tanaymishra.github.com/scroll-nav
+  tanaymishra.github.io/scroll-nav
 ```
 
 
@@ -18,5 +18,5 @@ Javascript should be enable in your browser
   
 ## Authors
 
-- [@tanaymishra](https://www.github.io/tanaymishra)
+- [@tanaymishra](https://www.github.com/tanaymishra)
 
